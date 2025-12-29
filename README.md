@@ -11,7 +11,7 @@ Atualizar a implementação do sistema bancário, para armazenar os dados de cli
 e contas bancárias em objetos ao invés de dicionários. 
 O código deve seguir o modelo de classes UML a seguir:
 
-![UML](https://imgur.com/a/1wWmwR6)
+<img width="1116" height="756" alt="image" src="https://github.com/user-attachments/assets/d820d4aa-ced2-4772-a6c9-1bf387b0339a" />
 
 ## 2 - Desafio extra
 Após concluir a modelagem das classes e a criação dos métodos.
